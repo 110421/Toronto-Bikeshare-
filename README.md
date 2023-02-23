@@ -22,4 +22,4 @@
  * Recommendation
    - Increase bike volume for 5 busiest stations which helps more people to use the service, which improve the revenue. 
    - Have a plan for bike distribution and staff for the busiest monthin July, August, and September.
-   - Release a new memmber ship which available from March to Octorber to encougrage the Casual memmber increase thir frequence of using service. 
+   - Release a new membership which is available from March to October to encourage the Casual member increase their frequency of using service. 
